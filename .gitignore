@@ -418,7 +418,7 @@ FodyWeavers.xsd
 *.msp
 
 *.sqlite
-db_dumps.json
+db_dump.json
 graph.html
 onion_crawl.db
 onion_crawl.db_backup
