@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+*.sqlite
+db_dumps.json
+graph.html
+onion_crawl.db
+onion_crawl.db_backup
+lib
+venv-onc
